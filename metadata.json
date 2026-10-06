@@ -1,0 +1,6 @@
+{
+  "name": "RecipeHub 🍳",
+  "description": "Discover delicious recipes, find inspiration, and cook something amazing with RecipeHub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
